@@ -1,6 +1,6 @@
 ---
 title: The Trouble With People
-date: '2018-06-26T16:08:05+01:00'
+date: '2018-06-20T16:08:05+01:00'
 description: >-
   Even the best people are trouble. But troublesome people turn out to be just
   what we need.

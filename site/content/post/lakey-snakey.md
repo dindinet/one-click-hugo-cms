@@ -6,4 +6,4 @@ description: >-
   bean mountain.
 image: ''
 ---
-![Nice lake](https://res.cloudinary.com/maxgoldhouse/image/upload/v1527632563/1830/1830_VM_2.jpg)
+![Nice lake](/img/italianvillage.jpg)

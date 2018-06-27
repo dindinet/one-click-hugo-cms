@@ -1,9 +1,12 @@
 ---
-title: Lakey Snakey
+title: Pasta Faster
 date: '2018-06-25T09:04:29+01:00'
 description: >-
-  The only lake that could ever please me was the salt lake at the top of coffee
-  bean mountain.
+  Oh to return to Italy where life is lived at a different pace. Slow and
+  thoughtful, frenetic and visceral. Where all opinions are heard but
+  individualism is not the norm.
 image: ''
 ---
-![Nice lake](/img/italianvillage.jpg)
+
+
+![A fortress of daily struggle](/img/italianvillage.jpg)

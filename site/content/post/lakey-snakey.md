@@ -10,3 +10,4 @@ image: ''
 
 
 ![A fortress of daily struggle](/img/italianvillage.jpg)
+![The way we were](https://lh3.googleusercontent.com/-4jSZ81l0MAs/TrK8u_f8qiI/AAAAAAAAALg/TibgibMvHcgK_W5sCUSJHqPrRbdycNasQCHMYBhgL/s960/Picture%2B005_758x600.jpg)

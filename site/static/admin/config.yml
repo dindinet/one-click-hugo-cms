@@ -6,8 +6,7 @@ media_library:
     cloud_name: dklongley
     api_key: 325856925759214
 
-media_folder: "site/static/img" # Folder where user uploaded files should go
-public_folder: "img"
+
 publish_mode: editorial_workflow
 logo_url: https://www.manfredcostahomes.com/img/mch-logo-wide-40.svg
 

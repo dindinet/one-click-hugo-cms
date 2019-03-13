@@ -1,5 +1,10 @@
 backend:
   name: git-gateway
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: dklongley
+    api_key: 325856925759214
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"

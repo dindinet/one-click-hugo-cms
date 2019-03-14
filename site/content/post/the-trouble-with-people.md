@@ -19,6 +19,7 @@ galleryImages:
       https://res.cloudinary.com/dklongley/image/upload/v1552585045/AG2/portofino6.jpg
     - >-
       https://res.cloudinary.com/dklongley/image/upload/v1552585171/AG2/portofino7.jpg
-image: /img/about-reinvest-profits.jpg
+image: >-
+  https://res.cloudinary.com/dklongley/image/upload/v1552595129/AG2/italianvillage.jpg
 ---
 In all endeavours we need something or someone to challenge our perceptions. Make us look at the problem from a different angle with different eyes. Often the more we wrestle with a problem the better the outcome.

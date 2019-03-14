@@ -5,6 +5,7 @@ description: If you can afford a house in Spain then you need to consider the Co
 galleryImages:
   - 'https://res.cloudinary.com/dklongley/image/upload/v1552487590/house1.jpg'
   - 'https://res.cloudinary.com/dklongley/image/upload/v1552481216/sample.jpg'
+  - 'https://res.cloudinary.com/dklongley/image/upload/v1552487590/house1.jpg'
 image: 'https://res.cloudinary.com/dklongley/image/upload/v1552487590/house1.jpg'
 ---
 A beautiful house in the Costa Blanca region of Spain.

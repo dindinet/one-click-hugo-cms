@@ -2,8 +2,9 @@
 title: Pasta Faster
 date: '2018-06-25T09:04:29+01:00'
 description: >-
-  Oh to return to Italy where life is lived at a different pace - Slow,
-  thoughtful, frenetic and visceral. Where all opinions are heard but
+  Oh to return to Italy where life is lived at a different pace - Depending on
+  time of day, time of year or time of life the pace will be either frenetic and
+  visceral or slow and thoughtful, . Where all opinions are heard but
   individualism is not the norm.
 image: >-
   https://res.cloudinary.com/dklongley/image/upload/v1552561207/italianvillage.jpg

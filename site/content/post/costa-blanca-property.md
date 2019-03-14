@@ -2,7 +2,11 @@
 title: Costa Blanca Property
 date: 2019-03-13T14:31:46.749Z
 description: If you can afford a house in Spain then you need to consider the Costa Blanca.
-image: 'https://res.cloudinary.com/dklongley/image/upload/v1552487590/house1.jpg'
+image:
+  - 'https://res.cloudinary.com/dklongley/image/upload/v1552487590/house1.jpg'
+  - >-
+    https://res.cloudinary.com/dklongley/image/upload/v1552488887/PuntaPrima1.jpg
+  - 'https://res.cloudinary.com/dklongley/image/upload/v1552481216/sample.jpg'
 ---
 A beautiful house in the Costa Blanca region of Spain.
 
@@ -11,5 +15,3 @@ A beautiful house in the Costa Blanca region of Spain.
 An Apartment with wonderful communal gardens.
 
 ![](https://res.cloudinary.com/dklongley/image/upload/c_scale,w_600/v1/samples/food/spices.jpg)
-
-![](https://res.cloudinary.com/dklongley/image/upload/v1552552926/GA-Checklist.pdf)

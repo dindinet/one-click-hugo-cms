@@ -8,11 +8,11 @@ description: >-
   individualism is not the norm.
 galleryImages:
   - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552568787/Hand-Luggage-Only-8-5.jpg
-  - >-
     https://res.cloudinary.com/dklongley/image/upload/v1552568845/portofino-italy-sea-coast-houses.jpg
   - >-
     https://res.cloudinary.com/dklongley/image/upload/v1552568914/Lorenzo_Quinn_Venice_Biennale_Support.jpg.1200x800_q85_crop.jpg
+  - >-
+    https://res.cloudinary.com/dklongley/image/upload/v1552568787/Hand-Luggage-Only-8-5.jpg
 image: >-
   https://res.cloudinary.com/dklongley/image/upload/v1552561207/italianvillage.jpg
 ---

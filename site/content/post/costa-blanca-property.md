@@ -11,3 +11,5 @@ A beautiful house in the Costa Blanca region of Spain.
 An Apartment with wonderful communal gardens.
 
 ![](https://res.cloudinary.com/dklongley/image/upload/c_scale,w_600/v1/samples/food/spices.jpg)
+
+![](https://res.cloudinary.com/dklongley/image/upload/v1552552926/GA-Checklist.pdf)

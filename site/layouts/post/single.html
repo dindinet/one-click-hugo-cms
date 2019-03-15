@@ -13,6 +13,8 @@
         {{ range .Params.image }}
          <img src="{{ . }}" />
         {{ end }}
+        {{ else }}
+          <img src="{{ .Params.image }}" />
        {{ end }}
       {{ end }}
       {{ .Content }}

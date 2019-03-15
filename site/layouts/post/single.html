@@ -10,7 +10,7 @@
       <p>{{ .Description }}</p>
       {{ if .Params.image }}
         {{ range .Params.image }}
-         <img src="{{ . }}" alt="{{ .Title }}" />
+         <img src="{{ . }}" />
         {{ end }}
       {{ end }}
       {{ .Content }}

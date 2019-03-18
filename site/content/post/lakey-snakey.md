@@ -41,8 +41,7 @@ galleryImages:
     https://res.cloudinary.com/dklongley/image/upload/v1552585045/AG2/portofino6.jpg
   - >-
     https://res.cloudinary.com/dklongley/image/upload/v1552585171/AG2/portofino7.jpg
-image: >-
-  https://res.cloudinary.com/dklongley/image/upload/v1552595273/AG2/strand-in-der-naehe-von-castello-di-rapallo.jpg
+image: 'https://res.cloudinary.com/dklongley/image/upload/v1552481216/sample.jpg'
 ---
 ![The way we were](https://res.cloudinary.com/dklongley/image/upload/v1552594911/AG2/marksmob.jpg)
 

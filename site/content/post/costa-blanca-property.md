@@ -5,7 +5,7 @@ description: If you can afford a house in Spain then you need to consider the Co
 galleryImages: []
 image:
   - >-
-    https://res.cloudinary.com/dklongley/image/upload/l_mghlogo/v1552584450/AG2/portofino1.jpg
+    https://res.cloudinary.com/dklongley/image/upload/w_400,l_mghlogo/v1552584450/AG2/portofino1.jpg
   - >-
     https://res.cloudinary.com/dklongley/image/upload/v1552584680/AG2/portofino3.jpg
   - >-

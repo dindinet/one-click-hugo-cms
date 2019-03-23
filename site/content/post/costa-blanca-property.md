@@ -17,11 +17,11 @@ image:
   - >-
     https://res.cloudinary.com/dklongley/image/upload/w_550,o_45,l_mghlogo/v1552585045/AG2/portofino6.jpg
   - >-
-    https://res.cloudinary.com/dklongley/image/upload/w_550,o_45,l_mghlogo/v1552585171/AG2/portofino7.jpg
+    https://res.cloudinary.com/dklongley/image/upload/w_655/w_550,o_45,l_mghlogo/v1552585171/AG2/portofino7.jpg
   - >-
-    https://res.cloudinary.com/dklongley/image/upload/w_550,o_45,l_mghlogo/v1552583370/AG2/portofino8.jpg.jpg
+    https://res.cloudinary.com/dklongley/image/upload/w_655/w_550,o_45,l_mghlogo/v1552583370/AG2/portofino8.jpg.jpg
   - >-
-    https://res.cloudinary.com/dklongley/image/upload/w_850/w_550,o_45,l_mghlogo/v1552583436/AG2/portofino9.jpg.jpg
+    https://res.cloudinary.com/dklongley/image/upload/w_655/w_550,o_45,l_mghlogo/v1552583436/AG2/portofino9.jpg.jpg
 ---
 A beautiful house in the Costa Blanca region of Spain.
 

@@ -5,17 +5,17 @@ description: If you can afford a house in Spain then you need to consider the Co
 galleryImages: []
 image:
   - >-
-    https://res.cloudinary.com/dklongley/image/upload/w_400,o_30,l_mghlogo/v1552584450/AG2/portofino1.jpg
+    https://res.cloudinary.com/dklongley/image/upload/w_550,o_45,l_mghlogo/v1552584450/AG2/portofino1.jpg
   - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552584680/AG2/portofino3.jpg
+    https://res.cloudinary.com/dklongley/image/upload/w_550,o_45,l_mghlogo/v1552584680/AG2/portofino3.jpg
   - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552584763/AG2/portofino4.jpg
+    https://res.cloudinary.com/dklongley/image/upload/w_550,o_45,l_mghlogo/v1552584763/AG2/portofino4.jpg
   - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552584982/AG2/portofino5.jpg
+    https://res.cloudinary.com/dklongley/image/upload/w_550,o_45,l_mghlogo/v1552584982/AG2/portofino5.jpg
   - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552585045/AG2/portofino6.jpg
+    https://res.cloudinary.com/dklongley/image/upload/w_550,o_45,l_mghlogo/v1552585045/AG2/portofino6.jpg
   - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552583370/AG2/RTEmagicC_Portofino_porticciolo_per_copertina_02.jpg.jpg
+  https://res.cloudinary.com/dklongley/image/upload/w_550,o_45,l_mghlogo/v1552583370/AG2/RTEmagicC_Portofino_porticciolo_per_copertina_02.jpg.jpg
 ---
 A beautiful house in the Costa Blanca region of Spain.
 

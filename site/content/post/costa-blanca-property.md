@@ -23,10 +23,10 @@ image:
   - >-
     https://res.cloudinary.com/dklongley/image/upload/w_655/w_550,o_45,l_mghlogo/v1552583436/AG2/portofino9.jpg.jpg
 ---
-A beautiful house in the Costa Blanca region of Spain.
+A beautiful house in Portofino, Liguria, Italy.
 
 ![An Apartment is a great option](https://res.cloudinary.com/dklongley/image/upload/v1552488887/PuntaPrima1.jpg "An Apartment with wonderful communal gardens.")
 
-An Apartment with wonderful communal gardens.
+An Apartment in Spain with wonderful communal gardens.
 
 ![](https://res.cloudinary.com/dklongley/image/upload/c_scale,w_600/v1/samples/food/spices.jpg)

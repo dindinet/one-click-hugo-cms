@@ -17,5 +17,3 @@ image: >-
   https://res.cloudinary.com/dklongley/image/upload/v1552595129/AG2/italianvillage.jpg
 ---
 In all endeavours we need something or someone to challenge our perceptions. Make us look at the problem from a different angle with different eyes. Often the more we wrestle with a problem the better the outcome. Wresting with problems increases the effectiveness of your reasoning muscle.
-
-youtube p6h-rYSVX90

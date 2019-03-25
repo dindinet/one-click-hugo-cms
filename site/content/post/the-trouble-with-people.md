@@ -6,7 +6,7 @@ description: >-
   what we need.
 galleryImages:
   - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552583436/AG2/Natural-park-of-portofino-Village-port-and-natural-park-of-portofino.jpg
+    https://res.cloudinary.com/dklongley/image/upload/v1552584587/AG2/portofino2.jpg
   - >-
     https://res.cloudinary.com/dklongley/image/upload/v1552584982/AG2/portofino5.jpg
   - >-

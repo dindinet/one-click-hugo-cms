@@ -23,7 +23,7 @@ image:
   - >-
     https://res.cloudinary.com/dklongley/image/upload/w_655/w_550,o_45,l_mghlogo/v1552583436/AG2/portofino9.jpg.jpg
 ---
-{{< youtube 7EYGzGABn4Y >}}
+{{< youtube 7EYGzGABn4Y?t=161 >}}
 
 The beautiful town of Portofino, Liguria, Italy.
 

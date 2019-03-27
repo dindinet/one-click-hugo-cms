@@ -8,6 +8,11 @@
     </div>
     <div class="cms mw6">
       <p>{{ .Description }}</p>
+      {{ if .Params.galleryImages }}
+        {{ range .Params.galleryImages }}
+         <img src="{{ replace . "upload/" "upload/w_640/" }}" />
+        {{ end }}
+      {{ end }}
       {{ if .Params.image }}
        {{ if isset .Params.image 1 }}
         {{ range .Params.image }}

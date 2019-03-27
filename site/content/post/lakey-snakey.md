@@ -8,8 +8,6 @@ description: >-
   individualism is not the norm.
 galleryImages:
   - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552595129/AG2/italianvillage.jpg
-  - >-
     https://res.cloudinary.com/dklongley/image/upload/v1552568845/portofino-italy-sea-coast-houses.jpg
   - >-
     https://res.cloudinary.com/dklongley/image/upload/v1552585045/AG2/portofino6.jpg
@@ -20,31 +18,13 @@ galleryImages:
   - >-
     https://res.cloudinary.com/dklongley/image/upload/v1552584587/AG2/portofino2.jpg
   - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552584450/AG2/portofino1.jpg
-  - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552583370/AGX/RTEmagicC_Portofino_porticciolo_per_copertina_02.jpg.jpg
-  - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552583436/AGX/Natural-park-of-portofino-Village-port-and-natural-park-of-portofino.jpg
-  - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552584982/AG2/portofino5.jpg
-  - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552584450/AG2/portofino1.jpg
-  - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552584587/AG2/portofino2.jpg
-  - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552584680/AG2/portofino3.jpg
-  - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552584763/AG2/portofino4.jpg
-  - >-
     https://res.cloudinary.com/dklongley/image/upload/v1552584982/AG2/portofino5.jpg
   - >-
     https://res.cloudinary.com/dklongley/image/upload/v1552585045/AG2/portofino6.jpg
   - >-
     https://res.cloudinary.com/dklongley/image/upload/v1552585171/AG2/portofino7.jpg
-image: 'https://res.cloudinary.com/dklongley/image/upload/v1552481216/sample.jpg'
+image: ''
 ---
 ![The way we were](https://res.cloudinary.com/dklongley/image/upload/v1552594911/AG2/marksmob.jpg)
-
-![]()
 
 {{< youtube nF7yuNg_zWE >}}

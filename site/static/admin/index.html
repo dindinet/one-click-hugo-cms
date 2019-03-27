@@ -30,21 +30,20 @@ CMS.registerEditorComponent({
       id: match[1]
     };
   },
-  // Function to create a text block from an instance of this component
 
-   // return ('{{ < youtube ' + obj.id + '> }}'); 'youtube ' + obj.id;
-
-  toBlock: function(obj) {
-    return (
-      '{{< youtube ' + obj.id + ' >}}'
-      );
-  },
   // Preview output for this component. Can either be a string or a React component
   // (component gives better render performance)
   toPreview: function(obj) {
     return (
       '<img src="https://img.youtube.com/vi/' + obj.id + '/0.jpg" width="655" alt="Youtube Video"/>'
     );
+  },
+  // Function to create a text block from an instance of this component
+  // return ('{{ < youtube ' + obj.id + '> }}'); 'youtube ' + obj.id;
+  toBlock: function(obj) {
+    return (
+      '{{< youtube ' + obj.id + ' >}}'
+      );
   }
 });
 </script>

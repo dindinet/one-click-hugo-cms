@@ -23,12 +23,10 @@ image:
   - >-
     https://res.cloudinary.com/dklongley/image/upload/w_655/w_550,o_45,l_mghlogo/v1552583436/AG2/portofino9.jpg.jpg
 ---
-{{< youtube 7EYGzGABn4Y >}}
-
 The beautiful town of Portofino, Liguria, Italy.
+
+{{< youtube 7EYGzGABn4Y >}}
 
 ![An Apartment is a great option](https://res.cloudinary.com/dklongley/image/upload/v1552488887/PuntaPrima1.jpg "An Apartment with wonderful communal gardens.")
 
 An Apartment in Spain with wonderful communal gardens.
-
-![](https://res.cloudinary.com/dklongley/image/upload/c_scale,w_600/v1/samples/food/spices.jpg)

@@ -2,7 +2,6 @@
 title: Portofino
 date: 2019-03-26T14:31:46.749Z
 description: If you can afford a house in The Med then consider Portofino
-youtube_video: 'https://www.youtube.com/watch?v=GDIzWI6c0VI'
 galleryImages: []
 image:
   - >-
@@ -26,7 +25,7 @@ image:
 ---
 The beautiful town of Portofino, Liguria, Italy.
 
-{{< youtube 7EYGzGABn4Y >}}
+youtube 7EYGzGABn4Y
 
 ![An Apartment is a great option](https://res.cloudinary.com/dklongley/image/upload/v1552488887/PuntaPrima1.jpg "An Apartment with wonderful communal gardens.")
 

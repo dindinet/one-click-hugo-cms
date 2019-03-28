@@ -6,6 +6,11 @@ description: >-
   time of day, time of year or time of life the pace will be either frenetic and
   visceral or slow and thoughtful, . Where all opinions are heard but
   individualism is not the norm.
+youtube_video:
+  id: 7EYGzGABn4Y
+  imageURL: 'https://img.youtube.com/vi/7EYGzGABn4Y/maxresdefault.jpg'
+  mediaType: video
+  url: 'https://www.youtube.com/embed/7EYGzGABn4Y'
 galleryImages:
   - >-
     https://res.cloudinary.com/dklongley/image/upload/v1552568845/portofino-italy-sea-coast-houses.jpg

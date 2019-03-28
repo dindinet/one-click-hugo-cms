@@ -30,7 +30,6 @@ image:
 ---
 The beautiful town of Portofino, Liguria, Italy.
 
-youtube 7EYGzGABn4Y
 
 ![An Apartment is a great option](https://res.cloudinary.com/dklongley/image/upload/v1552488887/PuntaPrima1.jpg "An Apartment with wonderful communal gardens.")
 

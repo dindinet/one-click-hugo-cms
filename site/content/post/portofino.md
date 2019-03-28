@@ -30,5 +30,3 @@ image:
 The beautiful town of Portofino, Liguria, Italy.
 
 {{< youtube 7EYGzGABn4Y >}}
-
-An Apartment in Spain with wonderful communal gardens.

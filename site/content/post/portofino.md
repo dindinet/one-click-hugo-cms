@@ -6,7 +6,7 @@ youtube_video:
   id: 7EYGzGABn4Y
   imageURL: 'https://img.youtube.com/vi/7EYGzGABn4Y/maxresdefault.jpg'
   mediaType: video
-  url: 'https://www.youtube.com/v/7EYGzGABn4Y'
+  url: 'https://www.youtube.com/watch?v=7EYGzGABn4Y'
 galleryImages:
   - >-
     https://res.cloudinary.com/dklongley/image/upload/v1552645065/AG2/AF1QipMtuFx1qr8VSF8y24Re4V_pjDlnVN1pW1usXktb_s2400.jpg

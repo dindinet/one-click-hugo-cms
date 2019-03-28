@@ -22,7 +22,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: 'youtube Video', name: youtube_video, widget: youtube, extraInfo: false, APIkey: "" }
+      - {label: 'youtube Video', name: youtube_video, widget: youtube, extraInfo: false, APIkey: "", required: false}
       - label: "Gallery"
         name: "galleryImages"
         widget: "list"

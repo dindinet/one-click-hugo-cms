@@ -41,7 +41,7 @@ CMS.registerEditorComponent({
   // Preview output for this component. Can either be a string or a React component
   // (component gives better render performance)
   toPreview: function(obj) {
-    return `<div style="padding-top: 56.25%; position: relative; overflow: hidden;">
+    return `<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
 <iframe frameborder="0" allowfullscreen="" scrolling="no" 
 src="https://onelineplayer.com/player.html?autoplay=true&loop=true&autopause=false&muted=false&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D${obj.id}&poster=&time=true&progressBar=true&playButton=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&logo=false&quality=720p" style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px;"></iframe></div>`;
   }

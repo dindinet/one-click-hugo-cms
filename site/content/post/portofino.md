@@ -25,5 +25,3 @@ image:
     https://res.cloudinary.com/dklongley/image/upload/v1552583436/AG2/portofino9.jpg.jpg
 ---
 Portofino a Mediterranean gem.
-
-{{< youtube SUd-56jTnSo >}}

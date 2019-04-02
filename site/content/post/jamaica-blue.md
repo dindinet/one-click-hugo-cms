@@ -2,8 +2,8 @@
 title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  GREAT NEWS! We’re excited to announce that we’ll be offering a small batch of
+  Jamaica Blue Mountain coffee beans in our store next week.
 galleryImages:
   - >-
     https://res.cloudinary.com/dklongley/image/upload/v1554198833/blue_mountain_coffee_jamaican_blue_mountain_coffee_jamaican_coffee_blue_mountain_coffee_beans_large.jpg

@@ -22,7 +22,8 @@
           <img src="{{ replace .Params.image "upload/" "upload/w_655w_550,o_45,l_mghlogo//" }}" />
        {{ end }}
       {{ end }}
-      {{ replace .Content "upload/" "upload/w_655w_550,o_45,l_mghlogo/" | | safeHTML }}
+      
+      {{ replace .Content "upload/" "upload/w_655w_550,o_45,l_mghlogo/" | safeHTML }}
     </div>
   </div>
 {{ end }}

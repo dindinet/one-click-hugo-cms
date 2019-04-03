@@ -23,11 +23,13 @@ image:
     https://res.cloudinary.com/dklongley/image/upload/v1552584982/AG2/portofino5.jpg
   - >-
     https://res.cloudinary.com/dklongley/image/upload/v1552585045/AG2/portofino6.jpg
-  - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552583436/AG2/portofino9.jpg.jpg
 ---
-Portofino a Mediterranean gem.
-
 ![](https://res.cloudinary.com/dklongley/image/upload/v1554215080/AG2/portofino-italy-jigsaw-puzzle-4000-pieces.60414-1.fs.jpg)
 
 ![](https://res.cloudinary.com/dklongley/image/upload/v1554215305/AG2/portofino-wallpapers-28820-3047804.jpg)
+
+Portofino a Mediterranean gem.
+
+
+
+{{< youtube OMoD_8xCXn0 >}}

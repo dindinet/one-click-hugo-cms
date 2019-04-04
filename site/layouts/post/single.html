@@ -10,20 +10,20 @@
       <p>{{ .Description }}</p>
       {{ if .Params.galleryImages }}
         {{ range .Params.galleryImages }}
-         <img src="{{ replace . "upload/" "upload/w_655/w_550,o_45,l_mghlogo/" }}" />
+         <img src="{{ replace . "upload/" "upload/w_655/w_240,o_45,l_wm/" }}" />
         {{ end }}
       {{ end }}
       {{ if .Params.image }}
        {{ if isset .Params.image 1 }}
         {{ range .Params.image }}
-         <img src="{{ replace . "upload/" "upload/w_655/w_550,o_45,l_mghlogo/" }}" />
+         <img src="{{ replace . "upload/" "upload/w_655/w_240,o_45,l_wm/" }}" />
         {{ end }}
         {{ else }}
-          <img src="{{ replace .Params.image "upload/" "upload/w_655/w_550,o_45,l_mghlogo/" }}" />
+          <img src="{{ replace .Params.image "upload/" "upload/w_655/w_240,o_45,l_wm/" }}" />
        {{ end }}
       {{ end }}
       
-      {{ replace .Content "upload/" "upload/w_655/w_550,o_45,l_mghlogo/" | safeHTML }}
+      {{ replace .Content "upload/" "upload/w_655/w_240,o_45,l_wm/" | safeHTML }}
     </div>
   </div>
 {{ end }}

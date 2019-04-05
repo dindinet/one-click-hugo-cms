@@ -8,8 +8,6 @@ description: >-
 galleryImages:
   - >-
     https://res.cloudinary.com/dklongley/image/upload/v1552583370/AG2/portofino8.jpg.jpg
-  - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552488887/PuntaPrima1.jpg
 image:
   - >-
     https://res.cloudinary.com/dklongley/image/upload/v1553773517/AG2/portofino-italy.jpg

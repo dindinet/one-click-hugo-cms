@@ -17,3 +17,5 @@ image: >-
 In all endeavours we need something or someone to challenge our perceptions. Make us look at the problem from a different angle with different eyes. Often the more we wrestle with a problem the better the outcome. Wresting with problems increases the effectiveness of your reasoning muscle.
 
 {{< youtube C8QJmI_V3j4 >}}
+
+<iframe src="http://duckduckgo.com/search.html?site=janosgyerik.com&prefill=Search DuckDuckGo" style="overflow:hidden;margin:0;padding:0;width:408px;height:40px;" frameborder="0"></iframe>

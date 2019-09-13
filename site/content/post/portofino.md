@@ -8,26 +8,14 @@ description: >-
 galleryImages:
   - >-
     https://res.cloudinary.com/dklongley/image/upload/v1552583370/AG2/portofino8.jpg.jpg
-image:
   - >-
     https://res.cloudinary.com/dklongley/image/upload/v1553773517/AG2/portofino-italy.jpg
   - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552584450/AG2/portofino1.jpg
-  - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552584587/AG2/portofino2.jpg
-  - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552584680/AG2/portofino3.jpg
-  - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552584763/AG2/portofino4.jpg
-  - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552584982/AG2/portofino5.jpg
-  - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1552585045/AG2/portofino6.jpg
-  - >-
-    https://res.cloudinary.com/dklongley/image/upload/v1554215305/AG2/portofino8.jpg
-  - >-
     https://res.cloudinary.com/dklongley/image/upload/v1554215080/AG2/portofino9.jpg
+image: ''
 ---
 Portofino a Mediterranean gem.
+
+{{< amp-gallery >}}
 
 {{< youtube OMoD_8xCXn0 >}}

@@ -18,4 +18,4 @@ In all endeavours we need something or someone to challenge our perceptions. Mak
 
 {{< youtube C8QJmI_V3j4 >}}
 
-<iframe src="http://duckduckgo.com/search.html?site=clarity-strategies.com&prefill=Search Clarity-Strategies" style="overflow:hidden;margin:0;padding:0;width:408px;height:40px;" frameborder="0"></iframe>
+{{< amp-gallery >}}

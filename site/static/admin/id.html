@@ -18,7 +18,7 @@
   -->
   <div data-netlify-identity-button>Login with Netlify Identity</div>
   <script>
-  //netlifyIdentity.on('init', () => netlifyIdentity.close());
+  netlifyIdentity.on('init', () => netlifyIdentity.open());
   netlifyIdentity.on('login', user => console.log('login', user));
   netlifyIdentity.on('logout', () => console.log('Logged out'));
   </script>

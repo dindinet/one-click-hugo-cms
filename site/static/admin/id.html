@@ -19,12 +19,14 @@
   <div data-netlify-identity-button>Login with Netlify Identity</div>
   <script>
   netlifyIdentity.on('init', () => netlifyIdentity.open());
-  netlifyIdentity.on('login', () => saysomething(' that you speak.'));
+  netlifyIdentity.on('login', () => saysomething('I cannot remember the words that you speak.'));
   netlifyIdentity.on('logout', () => console.log('Logged out'));
-  
-    function saysomething(words){
-      console.log('I cannot remember the words' + words)
+  if(netlifyIdentity.currentUser(){
+     saysomething('I am here');
     }
+  function saysomething(words){
+    console.log(words)
+  }
   </script>
 </body>
 </html>

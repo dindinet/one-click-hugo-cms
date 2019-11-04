@@ -22,7 +22,7 @@
   netlifyIdentity.on('login', () => saysomething('I cannot remember the words that you speak.'));
   netlifyIdentity.on('logout', () => console.log('Logged out'));
   var theUser = netlifyIdentity.currentUser();
-  if(theUser.email){
+  if(theUser){
      saysomething(theUser.email);
     }
   function saysomething(words){

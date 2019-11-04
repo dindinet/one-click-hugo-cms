@@ -18,8 +18,8 @@
   -->
   <div data-netlify-identity-button>Login with Netlify Identity</div>
   <script>
-  netlifyIdentity.on('init', () => netlifyIdentity.open());
-  netlifyIdentity.on('login', () => saysomething('I cannot remember the words that you speak.'));
+  //netlifyIdentity.on('init', () => netlifyIdentity.open());
+  netlifyIdentity.on('login', () => saysomething('Good to go'));
   netlifyIdentity.on('logout', () => console.log('Logged out'));
   var theUser = netlifyIdentity.currentUser();
   if(theUser != null){

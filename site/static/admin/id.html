@@ -23,7 +23,7 @@
   netlifyIdentity.on('logout', () => console.log('Logged out'));
   var theUser = netlifyIdentity.currentUser();
   if(theuser.email){
-     saysomething(theuser.email);
+     saysomething(theUser.email);
     }
   function saysomething(words){
     console.log(words)

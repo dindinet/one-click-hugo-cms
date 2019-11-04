@@ -21,8 +21,9 @@
   netlifyIdentity.on('init', () => netlifyIdentity.open());
   netlifyIdentity.on('login', () => saysomething('I cannot remember the words that you speak.'));
   netlifyIdentity.on('logout', () => console.log('Logged out'));
-  if(netlifyIdentity.currentUser()){
-     saysomething('I am here');
+  var theUser = netlifyIdentity.currentUser();
+  if(theuser.email){
+     saysomething(theuser.email);
     }
   function saysomething(words){
     console.log(words)

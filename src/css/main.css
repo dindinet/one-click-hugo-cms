@@ -22,7 +22,13 @@
  *       - Debug children
  *
  */
-
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    text-align: center;
 
 /* External Library Includes */
 @import './imports/_reset';

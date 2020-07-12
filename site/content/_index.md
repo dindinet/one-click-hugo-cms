@@ -1,6 +1,6 @@
 ---
 title: Great coffee with a conscience
-subtitle: ''
+subtitle: And without a conscience too
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
